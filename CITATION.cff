@@ -1,0 +1,18 @@
+
+cff-version: 1.2.0
+message: "If you use this questionnaire in your research, please cite it as follows."
+title: "TRACE Framework Evaluation Questionnaire"
+authors:
+  - family-names: "Deng"
+    given-names: "Zihan"
+  - family-names: "Li"
+    given-names: "Yutong"
+version: 1.0.0
+date-released: 2026-05-29
+url: "https://github.com/3inglE/TRAGE-framework-questionnaire"
+license: "CC-BY-4.0"
+keywords:
+  - "educational agents"
+  - "human-AI collaboration"
+  - "framework validation"
+  
